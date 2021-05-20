@@ -36,8 +36,8 @@ Pour répondre à la demande du client, plusieurs tâches doivent être réalise
 * Pour nos menus (footer et header), nous avons réutiliser le logo du journal,
 * Le site doit être facile de navigation, et doit faciliter la lecture des articles auprès des lecteurs (contraste des couleurs, taille de la police et choix de la police). 
 * Pour ce qui est de la police, nous avons utilisé deux police : 
-    * Une police pour les différents titres, qui est « … »,
-    * Une police pour le contenu de l’article qui est « … ».
+    * Une police pour les différents titres, qui est « PT Sans Narrow »,
+    * Une police pour le contenu de l’article qui est « Serif sans ».
 
 ## Navigation Site WordPress 
 Le menu du site est compose de trois pages : 
